@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuru Aravinda</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">💻 Software Engineering student passionate about technology and innovation.
+
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isuruaravinda2004&label=Profile%20views&color=0e75b6&style=flat" alt="isuruaravinda2004" /> </p>
 
@@ -10,9 +12,9 @@
 </p>
 
 
-<table style="border: style="border: 1px solid #30363D;">
-<tr style="border:style="border: 1px solid #30363D;">
-<td width="80%" align="left" style="border: style="border: 1px solid #30363D;">
+<table align="center">
+<tr s>
+<td width="80%" align="left" >
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -22,7 +24,7 @@
 
 </td>
 
-<td width="20%" align="right" style="border: none;">
+<td width="20%" align="center" style="border: none;">
 
 <img src="https://camo.githubusercontent.com/cf34bff7a1524df8ccb4e2f0c70edda3702a88305f98b82bcf7903591cd6b706/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="150">
 
